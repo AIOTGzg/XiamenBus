@@ -1,5 +1,5 @@
 # XiamenBus
-XiamenBus Dataset For Passenger Counting
+XiamenBus Dataset. It is a dataset for training/evaluation Passenger Counting Models in Bus Carriages.
 
 This dataset is specialized for passenger counting in bus carriages. This dataset contains images of passengers in bus carriages captured by cameras installed in normal public service buses and route-specific Bus Rapid Transit (BRT) buses, which are managed by the public transportation cooperation of the Xiamen city. The images are provided by the LanSi Co. Ltd, who manufactured and installed terminal devices in the buses with attached cameras. 
 
